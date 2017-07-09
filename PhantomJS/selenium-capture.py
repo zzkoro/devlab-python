@@ -12,3 +12,4 @@ browser.get(url)
 browser.save_screenshot("website.png")
 # 브라우저 종료하기
 browser.quit()
+# 종료
