@@ -35,6 +35,6 @@ def calc_degree_between_hm(hour, min, sec):
         gap = 2*math.pi - gap
     return gap
 
-if __name__ == "main":
+if __name__ == '__main__':
     pass
 
